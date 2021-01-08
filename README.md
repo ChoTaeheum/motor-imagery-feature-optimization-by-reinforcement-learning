@@ -30,5 +30,5 @@ component analysis (PCA)나 common spatial pattern (CSP)와 같은 차원축소
 사용할 경우, 기존 방법에 비해 적은 수의 특징점만으로도 더 높은 성능을 가
 질 수 있다는 것을 확인하였다.
 
-# 논문 알고리즘 scheme
+# 알고리즘 scheme
 ![LearningSystem](https://user-images.githubusercontent.com/77091029/103991664-596b7d80-51d6-11eb-875f-a535709fe33d.png)
