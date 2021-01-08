@@ -29,3 +29,6 @@ component analysis (PCA)나 common spatial pattern (CSP)와 같은 차원축소
 연구에서는 강화학습을 통해 학습된 에이전트가 선택하는 특징점을 우선적으로
 사용할 경우, 기존 방법에 비해 적은 수의 특징점만으로도 더 높은 성능을 가
 질 수 있다는 것을 확인하였다.
+
+
+[MotorImagery_presentation.pdf](https://github.com/ChoTaeheum/MotorImagery-FeatureOptimization-by-ReinforcementLearning/files/5785780/MotorImagery_presentation.pdf)
