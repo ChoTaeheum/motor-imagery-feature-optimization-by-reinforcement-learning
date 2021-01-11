@@ -23,7 +23,7 @@ component analysis (PCA)나 common spatial pattern (CSP)와 같은 차원축소
 서 입력되는 특징점을 상태, 특징점을 선택하거나 분류를 하는 것을 action, 분
 류정확성여부를 reward로 설정하였다. PCA 특징점의 경우, 제안하는 강화학습
 알고리즘을 사용하여 특징점을 최적화할 때, 기존 방법에 비해 random forest
-(RF) 분류기는 4.76%의 정확도 향상이 있었고 support vector machine SVM
+(RF) 분류기는 4.76%의 정확도 향상이 있었고 support vector machine (SVM)
 분류기는 7.41%의 정확도 향상이 있었다. CSP 특징점의 경우에도, RF 분류기
 는 3.23%의 정확도 향상이 있었고, SVM은 4.14%의 정확도 향상이 있었다. 본
 연구에서는 강화학습을 통해 학습된 에이전트가 선택하는 특징점을 우선적으로
